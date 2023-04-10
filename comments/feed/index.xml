@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentarios en MUPREDI	</title>
+	Comentarios en MuPreDi	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 19:23:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Apr 2023 22:30:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>
-		Comentario en ¡Hola, mundo! por Un comentarista de WordPress		</title>
+		Comentario en DualSense Controller por Un comentarista de WordPress		</title>
 		<link>/2023/04/10/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>

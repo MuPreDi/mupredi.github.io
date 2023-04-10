@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>MUPREDI</title>
+	<title>MuPreDi</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 20:31:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Apr 2023 22:31:14 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,24 +22,23 @@
 
 <image>
 	<url>/wp-content/uploads/2023/04/LOGO2BIEN.png</url>
-	<title>MUPREDI</title>
+	<title>MuPreDi</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>DSi Panda devkit</title>
-		<link>/2023/04/10/singstart-vol3-press-disc-ps4-2/</link>
-					<comments>/2023/04/10/singstart-vol3-press-disc-ps4-2/#respond</comments>
+		<title>Amstrad CPC464</title>
+		<link>/2023/04/10/amstrad-cpc464/</link>
+					<comments>/2023/04/10/amstrad-cpc464/#respond</comments>
 		
 		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
-		<pubDate>Mon, 10 Apr 2023 20:30:13 +0000</pubDate>
-				<category><![CDATA[PLAYSTATION]]></category>
-		<category><![CDATA[PlayStation 4]]></category>
-		<guid isPermaLink="false">/?p=100</guid>
+		<pubDate>Mon, 10 Apr 2023 22:28:37 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">/?p=123</guid>
 
 					<description><![CDATA[DESCRIPCIÓN &#124; DESCRIPTION Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar. IMÁGENES &#124; PICTURES Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="100" class="elementor elementor-100">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="123" class="elementor elementor-123">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-038fde6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="038fde6" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-814282c" data-id="814282c" data-element_type="column">
@@ -47,7 +46,7 @@
 								<div class="elementor-element elementor-element-49b0416 elementor-widget elementor-widget-image" data-id="49b0416" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="640" height="480" src="/wp-content/uploads/2023/04/TWL-DEV-EUR.jpg" class="attachment-medium_large size-medium_large wp-image-87" alt="" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="640" height="427" src="/wp-content/uploads/2023/04/Amstrad_CPC464.jpg" class="attachment-medium_large size-medium_large wp-image-124" alt="" />															</div>
 				</div>
 					</div>
 		</div>
@@ -106,13 +105,94 @@
 							</div>
 		]]></content:encoded>
 					
+					<wfw:commentRss>/2023/04/10/amstrad-cpc464/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DSi Panda devkit</title>
+		<link>/2023/04/10/singstart-vol3-press-disc-ps4-2/</link>
+					<comments>/2023/04/10/singstart-vol3-press-disc-ps4-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
+		<pubDate>Mon, 10 Apr 2023 20:30:13 +0000</pubDate>
+				<category><![CDATA[PLAYSTATION]]></category>
+		<category><![CDATA[PlayStation 4]]></category>
+		<guid isPermaLink="false">/?p=100</guid>
+
+					<description><![CDATA[DESCRIPCIÓN &#124; DESCRIPTION Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar. IMÁGENES &#124; PICTURES Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="100" class="elementor elementor-100">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-038fde6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="038fde6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-814282c" data-id="814282c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-49b0416 elementor-widget elementor-widget-image" data-id="49b0416" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="640" height="480" src="/wp-content/uploads/2023/04/TWL-DEV-EUR.jpg" class="attachment-medium_large size-medium_large wp-image-87" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e19bb2b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e19bb2b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-611facd" data-id="611facd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-de8d286 elementor-widget elementor-widget-heading" data-id="de8d286" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DESCRIPCIÓN | DESCRIPTION</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c88bb8a elementor-widget elementor-widget-text-editor" data-id="c88bb8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f1633db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1633db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0e425e9" data-id="0e425e9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3fa505d elementor-widget elementor-widget-heading" data-id="3fa505d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">IMÁGENES | PICTURES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-803a5cf elementor-widget elementor-widget-text-editor" data-id="803a5cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a27da4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a27da4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b7e687" data-id="6b7e687" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f3f2fad elementor-widget elementor-widget-heading" data-id="f3f2fad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ARCHIVOS | FILES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-32c9c52 elementor-widget elementor-widget-text-editor" data-id="32c9c52" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
 					<wfw:commentRss>/2023/04/10/singstart-vol3-press-disc-ps4-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Singstart VOL3 press disc PS4</title>
+		<title>SINGSTAR VOL.3 PS3 Press Disc</title>
 		<link>/2023/04/10/singstart-vol3-press-disc-ps4/</link>
 					<comments>/2023/04/10/singstart-vol3-press-disc-ps4/#respond</comments>
 		
@@ -241,19 +321,73 @@
 		
 			</item>
 		<item>
-		<title>¡Hola, mundo!</title>
+		<title>DualSense Controller</title>
 		<link>/2023/04/10/hola-mundo/</link>
 					<comments>/2023/04/10/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2023 18:24:43 +0000</pubDate>
-				<category><![CDATA[Sin categoría]]></category>
+				<category><![CDATA[PLAYSTATION]]></category>
+		<category><![CDATA[PlayStation 5]]></category>
+		<category><![CDATA[Sin categoría]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
-										<content:encoded><![CDATA[
-<p>Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
-]]></content:encoded>
+					<description><![CDATA[DESCRIPCIÓN &#124; DESCRIPTION Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar. IMÁGENES &#124; PICTURES Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2b5f993 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b5f993" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de3caae" data-id="de3caae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6da446b elementor-widget elementor-widget-image" data-id="6da446b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="600" height="600" src="/wp-content/uploads/2023/04/ps_gamepad_dp.jpg" class="attachment-medium_large size-medium_large wp-image-121" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-680b6ab elementor-widget elementor-widget-heading" data-id="680b6ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DESCRIPCIÓN | DESCRIPTION</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0e16718 elementor-widget elementor-widget-text-editor" data-id="0e16718" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5c60b6a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c60b6a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0dd0164" data-id="0dd0164" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5476ae0 elementor-widget elementor-widget-heading" data-id="5476ae0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">IMÁGENES | PICTURES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ff5bf0d elementor-widget elementor-widget-text-editor" data-id="ff5bf0d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1f1555e elementor-widget elementor-widget-heading" data-id="1f1555e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ARCHIVOS | FILES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c25d3df elementor-widget elementor-widget-text-editor" data-id="c25d3df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9de252b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9de252b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13141b8" data-id="13141b8" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2023/04/10/hola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>

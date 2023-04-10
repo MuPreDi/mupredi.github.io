@@ -442,7 +442,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 15px auto;
 }
 h1, h2, h3, h4, h5, h6, .interface-font {
-    font-family: 'Oregano', cursive;
+    font-family: 'Segoe UI', cursive;
     font-weight: 400;
 }
 .entry-title {
@@ -682,7 +682,7 @@ table {
     font-weight: normal;
     width: 100%;
     text-align: center;
-    background: linear-gradient(-45deg, #ff7055 25%, #2c3b4b 25%, #2c3b4b 50%, #ff7055 50%, #ff7055 75%, #2c3b4b 75%, #2c3b4b);
+    background: linear-gradient(-45deg, #3b9463 25%, #2c3b4b 25%, #2c3b4b 50%, #3b9463 50%, #3b9463 75%, #2c3b4b 75%, #2c3b4b);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 20px 20px;

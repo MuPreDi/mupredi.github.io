@@ -12,7 +12,7 @@
 	<atom:link href="/tag/nintendo/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 19:46:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Apr 2023 17:34:57 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,9 +32,10 @@
 		<link>/2023/04/10/gateway-3ds/</link>
 					<comments>/2023/04/10/gateway-3ds/#respond</comments>
 		
-		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2023 19:18:59 +0000</pubDate>
-				<category><![CDATA[NINTENDO]]></category>
+				<category><![CDATA[ITEMS]]></category>
+		<category><![CDATA[NINTENDO]]></category>
 		<category><![CDATA[Nintendo 3DS]]></category>
 		<category><![CDATA[hacking]]></category>
 		<category><![CDATA[nintendo]]></category>

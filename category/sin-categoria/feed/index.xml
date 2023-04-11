@@ -12,7 +12,7 @@
 	<atom:link href="/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 22:30:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Apr 2023 17:35:11 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,9 +32,10 @@
 		<link>/2023/04/10/hola-mundo/</link>
 					<comments>/2023/04/10/hola-mundo/#comments</comments>
 		
-		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2023 18:24:43 +0000</pubDate>
-				<category><![CDATA[PLAYSTATION]]></category>
+				<category><![CDATA[ITEMS]]></category>
+		<category><![CDATA[PLAYSTATION]]></category>
 		<category><![CDATA[PlayStation 5]]></category>
 		<category><![CDATA[Sin categoría]]></category>
 		<guid isPermaLink="false">/?p=1</guid>

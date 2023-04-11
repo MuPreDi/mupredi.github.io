@@ -12,7 +12,7 @@
 	<atom:link href="/category/hardware/computers/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 22:31:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Apr 2023 17:33:17 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,9 +32,10 @@
 		<link>/2023/04/10/amstrad-cpc464/</link>
 					<comments>/2023/04/10/amstrad-cpc464/#respond</comments>
 		
-		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2023 22:28:37 +0000</pubDate>
-				<category><![CDATA[PC]]></category>
+				<category><![CDATA[ITEMS]]></category>
+		<category><![CDATA[PC]]></category>
 		<guid isPermaLink="false">/?p=123</guid>
 
 					<description><![CDATA[DESCRIPCIÓN &#124; DESCRIPTION Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la cosa muy malar. IMÁGENES &#124; PICTURES Lorem fistrum por la gloria de mi madre esse jarl aliqua llevame al sircoo. De la pradera ullamco qué dise usteer está la [&#8230;]]]></description>

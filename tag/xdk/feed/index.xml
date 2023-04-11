@@ -12,7 +12,7 @@
 	<atom:link href="/tag/xdk/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Museo de la Preservación Digital</description>
-	<lastBuildDate>Mon, 10 Apr 2023 20:05:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Apr 2023 17:34:42 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,9 +32,10 @@
 		<link>/2023/04/10/xbox-one-s-xdk/</link>
 					<comments>/2023/04/10/xbox-one-s-xdk/#respond</comments>
 		
-		<dc:creator><![CDATA[Pedro Javier]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2023 19:53:59 +0000</pubDate>
-				<category><![CDATA[XBOX]]></category>
+				<category><![CDATA[ITEMS]]></category>
+		<category><![CDATA[XBOX]]></category>
 		<category><![CDATA[Xbox One]]></category>
 		<category><![CDATA[developer]]></category>
 		<category><![CDATA[xdk]]></category>
